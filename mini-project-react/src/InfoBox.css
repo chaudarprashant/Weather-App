@@ -1,0 +1,28 @@
+/* SearchBox.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+    flex-direction: column; /* Align all items in column */
+  }
+  
+  .InfoBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically centers content */
+    align-items: center; /* Horizontally centers content */
+    margin-top: 20px; /* Ensures it's below the previous divs */
+    padding: 20px;
+  }
+  
+  .InfoBox h2 {
+    margin-bottom: 20px;
+  }
+  
+  .Card {
+    max-width: 345px;
+  }

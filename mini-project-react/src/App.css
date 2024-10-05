@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+.abc {
+  background: linear-gradient(135deg, #ffffff, #2575fc);
+  min-height: 100vh; /* Ensures it covers at least the full viewport height */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,8 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0; /* No margin at the bottom */
+    padding-bottom: 0; /* Ensure no padding contributes to gap */
+  }
